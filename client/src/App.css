@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  width: 70%;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 2px;
+  background: #030712;
+  outline: 1px solid rgba(255, 255, 255, 0.5);
+}
